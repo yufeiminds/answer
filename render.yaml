@@ -3,8 +3,4 @@ services:
   name: answer-demo
   env: docker
   dockerfilePath: ./Dockerfile
-  disk:
-    name: answer-data
-    mountPath: /data
-    sizeGB: 10
 
