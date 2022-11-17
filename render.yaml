@@ -2,5 +2,7 @@ services:
 - type: web
   name: answer-demo
   env: docker
+  plan: free
+  autoDeploy: false
   dockerfilePath: ./Dockerfile
 
