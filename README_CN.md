@@ -19,6 +19,10 @@
 
 ## 快速开始
 
+### 部署 Demo
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/yufeiminds/answer/tree/deploy-demo-site)
+
 ### 使用 docker 快速搭建
 
 ```bash
